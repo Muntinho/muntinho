@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="250" viewBox="0 0 1050 250" role="img" aria-label="Cabeçalho do perfil Muntinho Sumbo">
+<rect width="1050" height="250" fill="#E8E3D5"/>
+<rect width="12" height="250" fill="#1C3D6E"/>
+<svg x="42" y="49" width="128" height="132" viewBox="415 155 522 432" preserveAspectRatio="xMidYMid meet" ><g xmlns="http://www.w3.org/2000/svg" id="ms" transform="translate(0.5 0.5)" fill="#9D856A" stroke="#9D856A" stroke-linecap="round" stroke-linejoin="round">
+<g id="linhas-M-S" fill="none">
+<line x1="450" y1="201" x2="450" y2="537" stroke-width="27" />
+<line x1="902" y1="201" x2="902" y2="538" stroke-width="27" />
+<line x1="450" y1="201" x2="558" y2="313" stroke-width="23" />
+<line x1="558" y1="313" x2="678" y2="190" stroke-width="23" />
+<line x1="678" y1="190" x2="798" y2="314" stroke-width="23" />
+<line x1="798" y1="314" x2="902" y2="201" stroke-width="21" />
+<line x1="558" y1="313" x2="676" y2="422" stroke-width="23" />
+<line x1="558" y1="313" x2="558" y2="467" stroke-width="20" />
+<line x1="558" y1="313" x2="450" y2="537" stroke-width="20" />
+<line x1="450" y1="537" x2="558" y2="467" stroke-width="22" />
+<line x1="558" y1="467" x2="676" y2="422" stroke-width="20" />
+<line x1="558" y1="467" x2="676" y2="552" stroke-width="24" />
+<line x1="676" y1="422" x2="676" y2="552" stroke-width="25" />
+<line x1="798" y1="314" x2="902" y2="538" stroke-width="20" />
+<line x1="678" y1="190" x2="674" y2="327" stroke-width="25" />
+<line x1="674" y1="327" x2="802" y2="406" stroke-width="26" />
+<line x1="802" y1="406" x2="802" y2="476" stroke-width="26" />
+<line x1="802" y1="476" x2="676" y2="422" stroke-width="21" />
+<line x1="802" y1="476" x2="902" y2="538" stroke-width="22" />
+<line x1="676" y1="552" x2="802" y2="476" stroke-width="24" />
+<line x1="674" y1="327" x2="902" y2="201" stroke-width="20" />
+</g>
+<g id="nos" stroke="none">
+<circle cx="450" cy="201" r="25" />
+<circle cx="902" cy="201" r="25" />
+<circle cx="450" cy="537" r="25" />
+<circle cx="902" cy="538" r="24" />
+<circle cx="678" cy="190" r="25" />
+<circle cx="558" cy="313" r="25" />
+<circle cx="798" cy="314" r="25" />
+<circle cx="676" cy="422" r="25" />
+<circle cx="558" cy="467" r="25" />
+<circle cx="676" cy="552" r="25" />
+</g>
+</g></svg>
+<text x="204" y="108" font-family="'IBM Plex Sans', Arial, sans-serif" font-size="35px" font-weight="bold" fill="#1C3D6E" letter-spacing="0.5px">MUNTINHO SUMBO</text>
+<text x="206" y="147" font-family="'IBM Plex Sans', Arial, sans-serif" font-size="21px" font-weight="normal" fill="#1C3D6E">Cibersegurança e Inteligência</text>
+<text x="206" y="187" font-family="'IBM Plex Sans', Arial, sans-serif" font-size="18px" font-weight="bold" fill="#9D856A" font-style="italic">Tecnologia com raízes</text>
+<line x1="205" y1="210" x2="996" y2="210" stroke="#9D856A" stroke-width="2"/>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120"><metadata xmlns="http://www.w3.org/2000/svg">{"glifo":"conectar","cor":"#C19064"}</metadata>
+<g xmlns="http://www.w3.org/2000/svg" fill="none" stroke="#9D856A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<line x1="60" y1="60" x2="60" y2="18" />
+<circle cx="60" cy="18" r="5" fill="#9D856A" stroke="none" />
+<line x1="60" y1="60" x2="102" y2="60" />
+<circle cx="102" cy="60" r="5" fill="#9D856A" stroke="none" />
+<line x1="60" y1="60" x2="60" y2="102" />
+<circle cx="60" cy="102" r="5" fill="#9D856A" stroke="none" />
+<line x1="60" y1="60" x2="18" y2="60" />
+<circle cx="18" cy="60" r="5" fill="#9D856A" stroke="none" />
+<circle cx="60" cy="60" r="8" fill="#9D856A" stroke="none" />
+</g></svg>

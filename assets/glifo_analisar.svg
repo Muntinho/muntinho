@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120"><metadata xmlns="http://www.w3.org/2000/svg">{"glifo":"analisar","cor":"#C19064"}</metadata>
+<g xmlns="http://www.w3.org/2000/svg" fill="none" stroke="#9D856A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="60" cy="60" r="46" fill="none" opacity="0.35" />
+<circle cx="60" cy="60" r="32" fill="none" opacity="0.46" />
+<circle cx="60" cy="60" r="18" fill="none" opacity="0.57" />
+<line x1="60" y1="60" x2="97.7" y2="86.4" />
+<circle cx="97.7" cy="86.4" r="3" fill="#9D856A" stroke="none" />
+<circle cx="86.2" cy="78.4" r="3" fill="#9D856A" stroke="none" />
+<circle cx="74.7" cy="70.3" r="3" fill="#9D856A" stroke="none" />
+<circle cx="60" cy="60" r="6" fill="#9D856A" stroke="none" />
+</g></svg>
